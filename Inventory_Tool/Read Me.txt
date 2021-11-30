@@ -5,7 +5,9 @@ Now off to the good part...
 *NOTE:
 To be able to run Powershell scripts on any Computer be sure to open Powershell as Administrator and then open the scripts in Powershell ISE.
 
-- First off run the script Set-ExecutionPolicy.ps1 to allow scripts to be used on this machine. (WARNING, this will make it possible to run ANY script! This can be very dangerous if abused!)
+- First off run the script Set-ExecutionPolicy.ps1 to allow scripts to be used on this machine.
+(WARNING, this will make it possible to run ANY script! This can be very dangerous if abused!)
+
 - Then run Inventory_Tool.ps1 to get the computer's data.
 - This will create a folder with all your data in the same Directory as the Inventory_Tool.ps1 script
 
