@@ -1,4 +1,3 @@
-﻿
 #First run the Set-ExecutionPolicy.ps1 script if needed
 
 #Variables
