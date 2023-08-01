@@ -7,10 +7,10 @@ The main purpose of this script is to simplify the inventory process for compute
 
 ## Prerequisites
 Before running the Powershell scripts, please ensure that you have the necessary permissions. To do this:
-```1. Open Powershell as an administrator.```
-```2. Run the script Set-ExecutionPolicy.ps1 to allow the execution of scripts on this machine.```
+* Open Powershell as an administrator.
+* Run the script Set-ExecutionPolicy.ps1 to allow the execution of scripts on this machine.
 
-*Note:* Enabling script execution can have security implications, as any script can be executed. Please be cautious and use this feature responsibly.
+```Note: Enabling script execution can have security implications, as any script can be executed. Please be cautious and use this feature responsibly.```
 
 ## How to Use
 * Run the script Inventory_Tool.ps1 after following the prerequisite steps.
