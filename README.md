@@ -13,9 +13,9 @@ Before running the Powershell scripts, please ensure that you have the necessary
 *Note:* Enabling script execution can have security implications, as any script can be executed. Please be cautious and use this feature responsibly.
 
 ## How to Use
-```1. Run the script Inventory_Tool.ps1 after following the prerequisite steps.```
-```2. This script will gather and organize the computer's data.```
-```3. The script will create a folder in the same directory as Inventory_Tool.ps1 containing all the collected data.```
+* Run the script Inventory_Tool.ps1 after following the prerequisite steps.
+* This script will gather and organize the computer's data.
+* The script will create a folder in the same directory as Inventory_Tool.ps1 containing all the collected data.
 
 Feel free to utilize the collected data as needed for your specific use case.
 
