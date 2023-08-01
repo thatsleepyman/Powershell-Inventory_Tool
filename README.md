@@ -10,7 +10,9 @@ Before running the Powershell scripts, please ensure that you have the necessary
 1. Open Powershell as an administrator.
 2. Run the script Set-ExecutionPolicy.ps1 to allow the execution of scripts on this machine.
 
+:::note
 *Note:* Enabling script execution can have security implications, as any script can be executed. Please be cautious and use this feature responsibly.
+:::
 
 ## How to Use
 1. Run the script Inventory_Tool.ps1 after following the prerequisite steps.
